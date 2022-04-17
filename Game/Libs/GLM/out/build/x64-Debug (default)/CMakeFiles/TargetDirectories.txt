@@ -1,0 +1,5 @@
+C:/Users/Casa/source/repos/Taiga/Libs/GLM/out/build/x64-Debug (default)/CMakeFiles/install/local.dir
+C:/Users/Casa/source/repos/Taiga/Libs/GLM/out/build/x64-Debug (default)/CMakeFiles/install.dir
+C:/Users/Casa/source/repos/Taiga/Libs/GLM/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/Casa/source/repos/Taiga/Libs/GLM/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/Users/Casa/source/repos/Taiga/Libs/GLM/out/build/x64-Debug (default)/CMakeFiles/list_install_components.dir
